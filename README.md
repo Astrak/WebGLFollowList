@@ -2,6 +2,7 @@
 Webgl related accounts on twitter.
 
 + @\_pil\_
++ @\_pwd\_
 + @aerotwist
 + @active_theory
 + @aiekick
@@ -14,6 +15,7 @@ Webgl related accounts on twitter.
 + @chandlerprall
 + @daviddotli
 + @deltakosh
++ @DerSchmale
 + @edankwan
 + @elisee
 + @evanwallace
