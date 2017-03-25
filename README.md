@@ -1,7 +1,7 @@
 # WebGLFollowList
 Webgl related accounts on twitter.
 
-+ @_pil_
++ @\_pil\_
 + @aerotwist
 + @active_theory
 + @aiekick
