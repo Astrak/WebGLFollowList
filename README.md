@@ -36,6 +36,7 @@ Webgl related accounts on twitter.
 + @mrmaxm
 + @nicoptere
 + @oosmoxiecode
++ @patriciogv
 + @phil_osophie
 + @philogb
 + @pjcozzi
